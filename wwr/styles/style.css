@@ -255,3 +255,46 @@ main section img {
     }
 }
 /* CCS for page 2 */
+.rivers-tittle {
+    text-align: center;
+}
+/* Salmon River */
+#Salmon-river-c {
+    background-color: #F4A261;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+.Salmon-Riven {
+    width: 90%;
+    padding: 50px;
+}
+.salmon-msg {
+    width: 90%;
+    padding: 50px;
+}
+
+/*Desolation River */
+#Dasolation-c {
+    width: 100%;
+    background-color: #F4A261;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+.Dasolation-c section {
+    width: 90%;
+    padding: 50px;
+    grid-column: 1/2;
+}
+#desaolation {
+    width: 90%;
+    padding: 50px;
+    grid-column: 2/3;
+}
+
+
+/*Grand Canyon */
+#grandcanyon-c {
+    background-color: #F4A261;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
