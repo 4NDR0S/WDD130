@@ -273,6 +273,7 @@ main section img {
     background-color: #F4A261;
     grid-column: 1/3;
     grid-row: 2/3;
+    box-shadow: 5px 5px 10px #6f7364;
     
 }
 .Salmon-img {
@@ -298,6 +299,7 @@ main section img {
     background-color: #F4A261;
     grid-column: 1/3;
     grid-row: 3/4;
+    box-shadow: 5px 5px 10px #6f7364;
 }
 .desaolation-img {
     width: 95%;
@@ -326,6 +328,7 @@ main section img {
     width: 100%;
     grid-column: 1/3;
     grid-row: 4/5;
+    box-shadow: 5px 5px 10px #6f7364;
 }
 .grandcanyon-img {
     width: 95%;
