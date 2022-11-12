@@ -289,7 +289,7 @@ main section img {
     width: 100%;
     grid-column: 1/2;
     grid-row: 2/3;
-    text-align: center;
+    text-align: left;
     padding-top: 60px;
 }
 
@@ -315,7 +315,7 @@ main section img {
     width: 100%;
     grid-column: 2/3;
     grid-row: 3/4;
-    text-align: center;
+    text-align: left;
     padding-top: 60px;
     padding-left: 10px;
     margin-left: -25px;
@@ -344,6 +344,6 @@ main section img {
     width: 100%;
     grid-column: 1/2;
     grid-row: 4/5;
-    text-align: center;
+    text-align: left;
     padding-top: 70px;
 }
