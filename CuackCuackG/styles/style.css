@@ -11,9 +11,11 @@ header {
     background-color: #93B1BA;
     margin-bottom: 40px;
     margin-top: -60px;
+    grid-template-columns: 400px auto;
     
 }
 nav a{
+    
     color: black;
     padding: 11px;
     background-color: #69B0A7;
@@ -28,6 +30,7 @@ nav a{
     
 }
 nav {
+    grid-column: 2/3;
     display: flex;
     justify-content: space-around;
     z-index: -1;
@@ -38,6 +41,7 @@ nav {
     
 }
 .logo {
+    grid-column: 1/2;
     width: 120px;
     margin-top: 40px;
     z-index: 2;
@@ -119,19 +123,25 @@ footer {
     margin-top: 25px;
     margin-left: 25px;
 }
-#footer-nav {
+#f-nav {
     z-index: 2;
     background-color: #69B0A7;
     grid-column: 3/4;
-    grid-row: 1/4;
+    grid-row: 3/4;
     border-radius: 10px;
     text-align: center;
     color: white;
     padding: 5px;
-    margin-left: 45%;
-    margin-right: 45%;
-    
-
+    display: inline;
+    width: 100px;
+    height: 20px;
+    margin-top: -10px;
+}
+.a-f-nav {
+    text-decoration: none;
+    padding: 10px;
+    color: white;
+    text-align: center;
 }
 
 h1, h2 {
