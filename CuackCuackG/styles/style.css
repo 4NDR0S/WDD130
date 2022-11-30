@@ -229,3 +229,47 @@ h1, h2 {
   to {opacity: 1}
 }
 /* ------------------- Slideshow container ---------------------------------*/
+
+/* PAGE 2 Tips and Info */
+.tips-cc h1 {
+  text-align: center;
+}
+
+.tips-cc p{
+  text-align: left;
+    font-size: 20px;
+    font-family: Karla, Helvetica, sans-serif;
+    display: block;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.tips_img{
+  width: 800px;
+  box-shadow: 5px 5px 10px black;
+  text-align: center;
+}
+
+.Bottom {
+  border-radius: 20px;
+  background-color: #69B0A7;
+  color: #264653;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 250px;
+  font-family: "Montserrat";
+  padding-left: 40px;
+  padding-right: 40px;
+  text-decoration: none;
+}
+
+
+
+
+
+.video {
+  text-align: center;
+}
+.background_vid {
+  background-color: #264653;
+}
