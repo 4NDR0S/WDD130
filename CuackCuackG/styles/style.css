@@ -278,8 +278,8 @@ h1, h2 {
 }
 .Bottom {
   border-radius: 20px;
-  background-color: #69B0A7;
-  color: #264653;
+  background-color: #264653;
+  color: white;
   margin-top: 10px;
   margin-bottom: 10px;
   margin-left: 250px;
@@ -306,6 +306,10 @@ h1, h2 {
   text-decoration: none;
   font-family: "Montserrat";
   justify-content: center;
+  color: white;
+  background-color: #264653;
+  display: flex;
+  margin-top: 40px;
 
 }
 
