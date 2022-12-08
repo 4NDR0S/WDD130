@@ -356,6 +356,7 @@ h1, h2 {
 .intro-boxes {
   margin-top: 90px;
 }
+
 #stressed-boxes {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -406,4 +407,14 @@ h1, h2 {
   text-align: center;
   width: 100%;
   margin-bottom: 0;
+}
+
+
+.moreinfo-link-text {
+  padding-top: 85px;
+}
+.moreinfo-link {
+  text-decoration: none;
+  color: #69B0A7;
+  text-decoration: underline;
 }
